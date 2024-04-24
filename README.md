@@ -1,54 +1,8 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/woodex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/woodex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/woodex?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/NK8Cif0dAoM?style=social)](https://youtu.be/NK8Cif0dAoM)
-
-  <br />
-  <br />
-
-  <h2 align="center">Woodex - Furniture eCommerce Website</h2>
-
-  Woodex is a fully responsive furniture ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/woodex/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
-### Demo Screeshots
-
-![Woodex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Woodex** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/woodex.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/woodex.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+![Screenshot (41)](https://github.com/Sriramfegs/ELEARNING/assets/125877648/aedea29a-723b-4058-b4bb-1ac3ed8e3bc5)![Screenshot (42)](https://github.com/Sriramfegs/ELEARNING/assets/125877648/080843b9-158e-4d06-8c4c-1fdbf0e0eb5c)![Screenshot (41)](https://github.com/Sriramfegs/ELEARNING/assets/125877648/89f5b26e-c6d2-4853-9aed-b1867f27b13e)# ELEARNING
+This is a E-Learning Website Designed by using html and css.
+![Screenshot (47)](https://github.com/Sriramfegs/e-COMMERCE-/assets/125877648/d2a2b4e5-f701-4774-81be-ec705788bcca)
+![Screenshot (48)](https://github.com/Sriramfegs/e-COMMERCE-/assets/125877648/399098b2-055a-45cc-9482-9c4854fa3ce7)
+![Screenshot (49)](https://github.com/Sriramfegs/e-COMMERCE-/assets/125877648/e2885983-6ce0-4ccb-b2f3-10f57d370e54)
+![Screenshot (50)](https://github.com/Sriramfegs/e-COMMERCE-/assets/125877648/c523701b-3ec5-4c3e-a3a7-ad77fc48e746)
+![Screenshot (51)](https://github.com/Sriramfegs/e-COMMERCE-/assets/125877648/a1e1f301-a4f8-43ae-8312-e6f33341d642)
+![Screenshot (52)](https://github.com/Sriramfegs/e-COMMERCE-/assets/125877648/2f6c3017-867a-4b7c-af01-d816ba341f69)
